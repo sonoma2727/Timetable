@@ -1,0 +1,27 @@
+# credentials & cache
+tools/.cred
+tools/.cache/
+local.properties
+
+# gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+
+# ide
+.idea/
+*.iml
+.vscode/
+.kotlin/
+
+# signing
+*.jks
+*.keystore
+
+# os / misc
+.DS_Store
+*.hprof
+captures/
+*.log

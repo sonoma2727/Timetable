@@ -1,0 +1,735 @@
+{
+  "weekInfo": {
+    "term": "2026-2027-1",
+    "xnxq01id": "2026-2027-1",
+    "weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "timeTemplate": "2026年新课节",
+    "kbjcmsid": "D761FD146E9C4BA390BF214EB56CDC54",
+    "selects": [
+      "zc",
+      "xnxq01id",
+      "kbjcmsid"
+    ]
+  },
+  "days": [
+    "星期一",
+    "星期二",
+    "星期三",
+    "星期四",
+    "星期五",
+    "星期六",
+    "星期日"
+  ],
+  "times": [
+    {
+      "label": "上午",
+      "time": "08:30-10:05"
+    },
+    {
+      "label": "上午",
+      "time": "10:20-11:55"
+    },
+    {
+      "label": "下午",
+      "time": "14:00-16:25"
+    },
+    {
+      "label": "下午",
+      "time": "16:40-18:15"
+    },
+    {
+      "label": "晚上",
+      "time": "19:00-21:25"
+    },
+    {
+      "label": "备注:",
+      "time": ""
+    }
+  ],
+  "courses": [
+    {
+      "courseName": "信号与系统",
+      "teacher": "教师4未评级（硕士）",
+      "room": "五教201室",
+      "weekText": "1-12(周)[01-02节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 0,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        1,
+        2
+      ],
+      "timeStart": "08:30",
+      "timeEnd": "10:05"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教402室新能源技术实验室",
+      "weekText": "17(周)[01-02-03-04节]",
+      "weeks": [
+        17
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 0,
+      "spanRows": 2,
+      "periodLabel": "上午",
+      "periods": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "timeStart": "08:30",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "单片机原理与应用",
+      "teacher": "教师3中级(讲师等)",
+      "room": "五教201室",
+      "weekText": "1-16(周)[03-04节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 1,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        3,
+        4
+      ],
+      "timeStart": "10:20",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教402室新能源技术实验室",
+      "weekText": "17(周)[05-06-07-08-09节]",
+      "weeks": [
+        17
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 2,
+      "spanRows": 2,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "面向对象程序设计",
+      "teacher": "教师8副高级(副教授等)",
+      "room": "五教201室",
+      "weekText": "1-16(周)[08-09节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 3,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        8,
+        9
+      ],
+      "timeStart": "16:40",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "电子电路CAD",
+      "teacher": "教师9未评级（硕士）",
+      "room": "三教405室电子电路CAD实验室",
+      "weekText": "3-4(周)[10-11节]",
+      "weeks": [
+        3,
+        4
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 4,
+      "spanRows": 1,
+      "periodLabel": "晚上",
+      "periods": [
+        10,
+        11
+      ],
+      "timeStart": "19:00",
+      "timeEnd": "20:35"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教402室新能源技术实验室",
+      "weekText": "17(周)[10-11-12节]",
+      "weeks": [
+        17
+      ],
+      "day": 1,
+      "dayName": "星期一",
+      "row": 4,
+      "spanRows": 1,
+      "periodLabel": "晚上",
+      "periods": [
+        10,
+        11,
+        12
+      ],
+      "timeStart": "19:00",
+      "timeEnd": "21:25"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教402室新能源技术实验室",
+      "weekText": "17(周)[01-02-03-04节]",
+      "weeks": [
+        17
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 0,
+      "spanRows": 2,
+      "periodLabel": "上午",
+      "periods": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "timeStart": "08:30",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "单片机原理与应用",
+      "teacher": "教师3中级(讲师等)",
+      "room": "五教202室",
+      "weekText": "1-4(周)[03-04节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 1,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        3,
+        4
+      ],
+      "timeStart": "10:20",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "信号与系统",
+      "teacher": "教师4未评级（硕士）",
+      "room": "五教201室",
+      "weekText": "1-12(周)[05-06节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 2,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "15:35"
+    },
+    {
+      "courseName": "信号与系统",
+      "teacher": "教师4未评级（硕士）",
+      "room": "五教203室",
+      "weekText": "13-16(周)[05-06节]",
+      "weeks": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 2,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "15:35"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教206室高频与通信原理实验室",
+      "weekText": "17(周)[05-06-07-08-09节]",
+      "weeks": [
+        17
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 2,
+      "spanRows": 2,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "面向对象程序设计",
+      "teacher": "教师8副高级(副教授等)",
+      "room": "三教405室电子电路CAD实验室",
+      "weekText": "5-16(周)[08-09节]",
+      "weeks": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 3,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        8,
+        9
+      ],
+      "timeStart": "16:40",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "单片机原理与应用课程设计",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教206室高频与通信原理实验室",
+      "weekText": "17(周)[10-11-12节]",
+      "weeks": [
+        17
+      ],
+      "day": 2,
+      "dayName": "星期二",
+      "row": 4,
+      "spanRows": 1,
+      "periodLabel": "晚上",
+      "periods": [
+        10,
+        11,
+        12
+      ],
+      "timeStart": "19:00",
+      "timeEnd": "21:25"
+    },
+    {
+      "courseName": "高频电子线路",
+      "teacher": "教师2未评级（硕士）",
+      "room": "五教201室",
+      "weekText": "1-8(周)[03-04节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "day": 3,
+      "dayName": "星期三",
+      "row": 1,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        3,
+        4
+      ],
+      "timeStart": "10:20",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "电子工艺实训 (分组01)",
+      "teacher": "教师7中级(讲师等)",
+      "room": "三教410室电子制作与测量实训室",
+      "weekText": "1,3,5,7,9,11,13,15(周)[05-06-07节]",
+      "weeks": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "day": 3,
+      "dayName": "星期三",
+      "row": 2,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6,
+        7
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "16:25"
+    },
+    {
+      "courseName": "单片机原理与应用 (分组01)",
+      "teacher": "教师3中级(讲师等)",
+      "room": "三教302左计算机接口技术实验室",
+      "weekText": "5-16(周)[10-11节]",
+      "weeks": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 3,
+      "dayName": "星期三",
+      "row": 4,
+      "spanRows": 1,
+      "periodLabel": "晚上",
+      "periods": [
+        10,
+        11
+      ],
+      "timeStart": "19:00",
+      "timeEnd": "20:35"
+    },
+    {
+      "courseName": "电子电路CAD",
+      "teacher": "教师9未评级（硕士）",
+      "room": "三教405室电子电路CAD实验室",
+      "weekText": "1-16(周)[03-04节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 4,
+      "dayName": "星期四",
+      "row": 1,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        3,
+        4
+      ],
+      "timeStart": "10:20",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "高频电子线路",
+      "teacher": "教师2未评级（硕士）",
+      "room": "五教203室",
+      "weekText": "1-8(周)[08-09节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "day": 4,
+      "dayName": "星期四",
+      "row": 3,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        8,
+        9
+      ],
+      "timeStart": "16:40",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "高频电子线路",
+      "teacher": "教师2未评级（硕士）",
+      "room": "五教203室",
+      "weekText": "9-16(周)[08-09节]",
+      "weeks": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 4,
+      "dayName": "星期四",
+      "row": 3,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        8,
+        9
+      ],
+      "timeStart": "16:40",
+      "timeEnd": "18:15"
+    },
+    {
+      "courseName": "中国近现代史纲要",
+      "teacher": "教师6中级(讲师等)",
+      "room": "五教101室",
+      "weekText": "1-12(周)[01-02-03-04节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "day": 5,
+      "dayName": "星期五",
+      "row": 0,
+      "spanRows": 2,
+      "periodLabel": "上午",
+      "periods": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "timeStart": "08:30",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "形势与政策Ⅴ",
+      "teacher": "教师5副高级(副教授等)",
+      "room": "五教101室",
+      "weekText": "13-16(周)[03-04节]",
+      "weeks": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 5,
+      "dayName": "星期五",
+      "row": 1,
+      "spanRows": 1,
+      "periodLabel": "上午",
+      "periods": [
+        3,
+        4
+      ],
+      "timeStart": "10:20",
+      "timeEnd": "11:55"
+    },
+    {
+      "courseName": "电源及控制技术",
+      "teacher": "教师1中级(讲师等)",
+      "room": "一教604室",
+      "weekText": "1-16(周)[05-06节]",
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "day": 5,
+      "dayName": "星期五",
+      "row": 2,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        5,
+        6
+      ],
+      "timeStart": "14:00",
+      "timeEnd": "15:35"
+    },
+    {
+      "courseName": "高频电子线路 (分组01)",
+      "teacher": "教师2未评级（硕士）",
+      "room": "三教206室高频与通信原理实验室",
+      "weekText": "5,7,9,11,13,15(周)[08-09节]",
+      "weeks": [
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "day": 5,
+      "dayName": "星期五",
+      "row": 3,
+      "spanRows": 1,
+      "periodLabel": "下午",
+      "periods": [
+        8,
+        9
+      ],
+      "timeStart": "16:40",
+      "timeEnd": "18:15"
+    }
+  ]
+}
